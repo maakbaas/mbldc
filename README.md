@@ -10,7 +10,7 @@ Custom PCB design which serves as a ESC or BLDC controller, to drive brushless B
 - Max 10S, absolute maximum voltage is 45V 
 - Two pins foreseen for communication to external devices 
 
-## Features of the software
+## Features of the firmware
 - Sensorless block commutation
 - Bi-directional
 - Open loop start
