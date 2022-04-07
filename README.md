@@ -4,6 +4,8 @@ Custom PCB design which serves as a ESC or BLDC controller, to drive brushless B
 [Read more on maakbaas.com](https://maakbaas.com/diy-field-oriented-control-esc/)
 
 ## Features of the PCB
+- One-sided assembly
+- STM32 MCU
 - Three low side phase current shunt resistors
 - Phase voltage measurements
 - Connector for hall sensors or an encoder
