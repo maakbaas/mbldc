@@ -8,7 +8,7 @@ Custom PCB design which serves as a ESC or BLDC controller, to drive brushless B
 - Phase voltage measurements
 - Connector for hall sensors or an encoder
 - Max 10S, absolute maximum voltage is 45V 
-- Two pins foreseen for communication to external devices 
+- External communication using I2C or a custom protocol
 
 ## Features of the firmware
 - Sensorless block commutation
