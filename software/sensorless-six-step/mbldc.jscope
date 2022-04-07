@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<JScopeProject>
+    <FileVersion major="1" minor="1" />
+    <Project>
+        <Configuration>
+            <JLink>
+                <Options IsRTTSession="1" IsRTTWithTimeStamp="0" SamplingPeriod="1000" Connection="1" SerialNo="0" IP="" TargetDevice="STM32G473CE" TargetInterface="SWD" InterfaceSpeed="4000" />
+            </JLink>
+            <ElfFile Name="" />
+            <DataFile Name="" />
+            <RawFile Name="" />
+            <Scope>
+                <Options TimeResolutionUs="1000" />
+            </Scope>
+            <Trigger>
+                <Options Level="0.000000" Symbol="Symbol No 1" On="1" Auto="0" Rise="1" Fall="0" />
+            </Trigger>
+        </Configuration>
+        <Windows>
+            <Graph Show="1" />
+            <Watch Show="1" />
+        </Windows>
+        <SelectedSymbols>
+            <Symbol>
+                <Options Name="Symbol No 1" Address="0x00000000" Type="4 Byte signed RTT Data" TypeID="12" Size="4" GraphColorRed="255" GraphColorGreen="215" GraphColorBlue="0" YMinSampled="-313" YMaxSampled="260" YAvgSampled="-15" Offset="4" ShowInGraph="1" YOffset="400" IsAutoConfig="1" YResolution="200" MaxValue="718" File="None" Scope="1" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="Symbol No 2" Address="0x00000000" Type="1 Byte unsigned RTT Data" TypeID="6" Size="1" GraphColorRed="0" GraphColorGreen="255" GraphColorBlue="0" YMinSampled="0" YMaxSampled="5" YAvgSampled="2" Offset="8" ShowInGraph="1" YOffset="200" IsAutoConfig="1" YResolution="1" MaxValue="5" File="None" Scope="1" DrawStyle="0" />
+            </Symbol>
+        </SelectedSymbols>
+    </Project>
+</JScopeProject>
