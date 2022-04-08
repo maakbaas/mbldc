@@ -22,5 +22,5 @@ Custom PCB design which serves as a ESC or BLDC controller, to drive brushless B
 - Speed control
 - Controllable through the debug port 
 
-## Photo of the PCB
+## Photo
 ![](https://cdn.hackaday.io/images/5273121611317168532.jpg)
